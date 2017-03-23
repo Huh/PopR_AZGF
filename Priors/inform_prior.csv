@@ -1,0 +1,14 @@
+,Species,Parameter,Age,Sex,Mean,SE,Tau
+1,Bison,Survival,Juvenile,M,0.85,0.06,277.7777778
+2,Bison,OtherMort,Juvenile,M,0.05,0.06,277.7777778
+3,Bison,HarvMort,Juvenile,M,0.1,0.06,277.7777778
+4,Bison,Survival,Adult,M,0.85,0.06,277.7777778
+5,Bison,OtherMort,Adult,M,0.03,0.06,277.7777778
+6,Bison,HarvMort,Adult,M,0.12,0.06,277.7777778
+7,Bison,Survival,Juvenile,F,0.85,0.06,277.7777778
+8,Bison,OtherMort,Juvenile,F,0.05,0.06,277.7777778
+9,Bison,HarvMort,Juvenile,F,0.1,0.06,277.7777778
+10,Bison,Survival,Adult,F,0.87,0.06,277.7777778
+11,Bison,OtherMort,Adult,F,0.03,0.06,277.7777778
+12,Bison,HarvMort,Adult,F,0.1,0.06,277.7777778
+13,Bison,Recruitment,Adult,F,0.34,0.08,156.25
