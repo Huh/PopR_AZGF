@@ -1,6 +1,9 @@
 # PopR_AZGF
 This repository is intended to house code and discussion related to game species modeling in Arizona.
 
+## Documentation
+Documentation for this project is housed in the documentation folder above.  Within this folder you will find html files that you can download and view.  The documents are safe to email and distribute as you see fit.
+
 ##  Questions, Comments and Concerns
 To post a question or report a bug in code please click on the Issues tab above.  You may be required to create an account to make a comment, but it will only take a moment and will be useful as the project evolves.  If you make a comment on an existing issue or create a new issue all of those following the issue will receive an email.  The maintainers (e.g. Josh and Paul) of this repository will see every communication.
 
